@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Roll_the_Dice/static/css/main.fee7cd7a.css",
+    "main.js": "/Roll_the_Dice/static/js/main.422e0c8f.js",
+    "static/js/787.4362262f.chunk.js": "/Roll_the_Dice/static/js/787.4362262f.chunk.js",
+    "index.html": "/Roll_the_Dice/index.html",
+    "main.fee7cd7a.css.map": "/Roll_the_Dice/static/css/main.fee7cd7a.css.map",
+    "main.422e0c8f.js.map": "/Roll_the_Dice/static/js/main.422e0c8f.js.map",
+    "787.4362262f.chunk.js.map": "/Roll_the_Dice/static/js/787.4362262f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee7cd7a.css",
+    "static/js/main.422e0c8f.js"
+  ]
+}
